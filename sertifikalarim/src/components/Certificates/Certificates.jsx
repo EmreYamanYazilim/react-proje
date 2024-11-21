@@ -12,7 +12,9 @@ console.log(cer);
         <h4  className='title-certifica'>{title}</h4>
         <h5 className='description'>{description}</h5> 
     </div>
+
   
+
 
   )
 }
