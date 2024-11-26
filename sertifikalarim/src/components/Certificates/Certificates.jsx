@@ -12,6 +12,7 @@ function Certificates({ cer, deneme }) {
       <h5 className='description'>{description}</h5>
       <h2>{deneme ? "Evet" : "Hayır"}</h2>
       <h2>{deneme && "Evet"}</h2>
+      
     </div>
   )
 
